@@ -13,11 +13,11 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="iam404"
-password="iam404"
+username="kham07"
+password="kham07"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="200"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -27,14 +27,14 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
-</font></h3>
-<h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+servermessage="<h4><font color='gray'>
+ကိုယ်မပြောင်းလဲပါဘူး အမြဲတမ်း ပုံမှန်ပါပဲ။
 </font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+<h4><font color='cyan'>
+တစ်ဖက်လူကကိုယ့်ကိုဆက်ဆံတဲ့ပုံစံအတိုင်း အလိုက်သိ ပြန်ဆက်ဆံပြရုံပါပဲ။
+</font></h4>
+<h3><font color='magenta'>
+↤↤↤↤↤ GCP SERVER BY KHAM THANK 404 BRO ↦↦↦↦↦
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
